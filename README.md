@@ -35,15 +35,19 @@ Version Control: Git & GitHub
 Follow the steps below to run the project locally:
 
 1. Clone the Repository
+
 git clone https://github.com/GiridharJS/Budget_App.git
 
 2. Navigate to the Project Directory
+
 cd Budget_App
 
 3. Install Dependencies
+
 npm install
 
 4. Start the Development Server
+
 npm start
 
 5. Open in Browser
