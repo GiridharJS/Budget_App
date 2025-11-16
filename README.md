@@ -15,9 +15,9 @@ Auto-calculate and display Total Expenditure
 
 Clean, modern, minimal UI
 
-📸 Screenshot
+**📸 Screenshot**
 
-
+ScreenShot are present in : "https://github.com/GiridharJS/Budget_App/tree/main/ScreenShot"
 
 
 **🛠 Tech Stack Used**
